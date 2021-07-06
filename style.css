@@ -110,10 +110,6 @@ body{
     font-weight: 700;
 }
 
-.active > .accordion_btn{
-    border:none;
-}
-
 .mobile_woman{
     position: absolute;
     right:100%;
@@ -133,7 +129,6 @@ body{
         bottom: 27%;
         left:12%;
     }
-
 
     .image_side{
         background-image: url(./images/illustration-woman-online-desktop.svg), url(./images/bg-pattern-desktop.svg);
